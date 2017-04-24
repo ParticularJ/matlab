@@ -1,0 +1,17 @@
+C:\Myself\example\matlab\Picture_homework2\1.jpg
+C:\Myself\example\matlab\Picture_homework2\10.jpg
+C:\Myself\example\matlab\Picture_homework2\11.jpg
+C:\Myself\example\matlab\Picture_homework2\12.jpg
+C:\Myself\example\matlab\Picture_homework2\13.jpg
+C:\Myself\example\matlab\Picture_homework2\14.jpg
+C:\Myself\example\matlab\Picture_homework2\15.jpg
+C:\Myself\example\matlab\Picture_homework2\16.jpg
+C:\Myself\example\matlab\Picture_homework2\17.jpg
+C:\Myself\example\matlab\Picture_homework2\2.jpg
+C:\Myself\example\matlab\Picture_homework2\3.jpg
+C:\Myself\example\matlab\Picture_homework2\4.jpg
+C:\Myself\example\matlab\Picture_homework2\5.jpg
+C:\Myself\example\matlab\Picture_homework2\6.jpg
+C:\Myself\example\matlab\Picture_homework2\7.jpg
+C:\Myself\example\matlab\Picture_homework2\8.jpg
+C:\Myself\example\matlab\Picture_homework2\9.jpg
